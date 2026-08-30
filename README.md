@@ -1,7 +1,7 @@
-[README-2.md](https://github.com/user-attachments/files/31608236/README-2.md)
+[README-3.md](https://github.com/user-attachments/files/31608274/README-3.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=220&section=header&text=Sachin%20Gupta&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Aspiring%20Cloud%20%26%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=220&section=header&text=Sachin%20Gupta&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Aspiring%20Cloud%20and%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Machine+Learning+models;Exploring+Cloud+Computing;House+Price+Prediction+%7C+Wildfire+Risk+Classification;Always+learning%2C+always+building" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 <img src="https://raw.githubusercontent.com/sachingupta9233/sachingupta9233/main/profile.jpg" width="160" style="border-radius:50%;" alt="Sachin Gupta" />
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-Internship%20(Cloud%20%26%20ML)-3B82F6?style=for-the-badge&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-Internship%20(Cloud%20and%20ML)-3B82F6?style=for-the-badge&logo=handshake&logoColor=white" />
 
 <br/>
 
